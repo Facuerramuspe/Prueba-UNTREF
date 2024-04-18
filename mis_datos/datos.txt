@@ -1,0 +1,7 @@
+Nombre:Facundo
+Apellido:Erramuspe Abad
+Altura:1.70
+Edad:23
+Peso:63
+ColorPreferido:Rojo
+Dni:42834929
